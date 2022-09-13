@@ -7,6 +7,6 @@ def send_mail(semail,remail, message):
     s.login("<enter you mail_id>", "<Password>")
     s.sendmail(semail, remail, message)
     s.quit()
-Command = "dir"
+Command = "<Enter the command>"
 result = subprocess.check_output(Command, shell=True)
 send_mail("sender_mail_id", "receiver_mail_id", result)
