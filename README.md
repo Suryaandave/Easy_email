@@ -13,3 +13,9 @@ using command
 [ pip install subprocess ]
 
 Then in code you will see command="<Type the commnd>"
+
+
+Enter the command here
+
+
+Now you are good to go!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
